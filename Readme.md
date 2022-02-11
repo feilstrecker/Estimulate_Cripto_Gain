@@ -1,0 +1,1 @@
+Hi! This script make your estimulate gain with Mercado Bitcoin api
